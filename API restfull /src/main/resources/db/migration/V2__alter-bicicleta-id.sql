@@ -1,0 +1,1 @@
+ALTER TABLE bicicleta MODIFY id VARCHAR(36);
